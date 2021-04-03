@@ -1,7 +1,7 @@
 # Environment setup for React Native
 ## Installation
 1. We will start with bare React Native installation, To proceed please follow <a href="https://reactnative.dev/docs/environment-setup">these steps</a>.
-2. <br>(ps: follow the android guide with bare react native)
+<br>(ps: follow the android guide with bare react native)
 3. Then we will move forward to adb installation, you can install adb from <a href="https://developer.android.com/studio/releases/platform-tools">here</a>.
 4. Setting up your physical device, follow <a href="https://reactnative.dev/docs/running-on-device">this guide</a>.
 5. Few tutorials for practices are below:
