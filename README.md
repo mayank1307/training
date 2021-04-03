@@ -1,4 +1,7 @@
 # TRAINING
+## Check out the Environmental setup guide first
+You can check out the <a href="https://github.com/mayank1307/training/blob/main/Startup.md">Environmental setup guide here</a>.
+
 ## Installing dependencies
 
 Follow the [React Native Getting Started Guide](https://facebook.github.io/react-native/docs/getting-started.html) for detailed instructions on setting up your local machine for development.
